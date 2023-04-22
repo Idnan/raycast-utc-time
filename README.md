@@ -12,15 +12,9 @@ Follow these steps to install the Current UTC Time Raycast extension:
 git clone https://github.com/yourusername/raycast-utc-time.git
 ```
 
-2. Move the raycast-utc-time directory to Raycast's extensions directory.
-
-```bash
-mv raycast-utc-time ~/Library/Application\ Support/Raycast/extensions/
-```
+2. Open Raycast -> extension -> Click + icon -> Add Script Directory. This will load the extension.
 
 3. Open Raycast and type "Current UTC Time" into the search bar. The extension should appear, and when you run it, it will display the current UTC time.
-
-Note: If you don't see the script right away, you may need to restart Raycast for the changes to take effect.
 
 ## Usage
 
